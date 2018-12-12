@@ -1,0 +1,2 @@
+/mnt/lijian/mount_out/visualization/disc/data_in/0.jpg
+/mnt/lijian/mount_out/visualization/disc/data_in/1.jpg

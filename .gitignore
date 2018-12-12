@@ -1,0 +1,8 @@
+*.pyc
+*.jpg
+*.jpeg
+*.JPEG
+*.png
+*.caffemodel
+*.solverstate
+*.db
